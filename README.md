@@ -1,2 +1,4 @@
 # SEO_Experiment
 Detailing an SEO beginner's quest for high page rankings on organic searches for http://www.wildtrekkerslodge.com
+Commencing on the 26th of May 2015, i shall actively endavour to improve search engine rankings for a website i recently developed: http://www.wildtrekkerslodge.com as requested by the owner of the site. Usually, this arduos task i give to companies that do SEO yet in the spirit of acquiring knowledge, i will take over complete control of all SEO based operations. I have neither studied web development/design, nor any I.T. related course and am a novice and an amateur at all this.
+It will be an interesting journey and i shall detail it all on this particular thread but it is a journey im hoping will end in success. Upon publishing the website, the only SEO related work performed on the site was merely to submit the sitemap via attracta and create 2 backlinks. This allowed the site to appear on google.
